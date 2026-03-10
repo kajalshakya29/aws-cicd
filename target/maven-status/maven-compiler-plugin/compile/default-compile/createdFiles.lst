@@ -1,0 +1,4 @@
+com\aws\service\CourseService.class
+com\aws\controller\CourseController.class
+com\aws\CourseServiceApplication.class
+com\aws\dto\Course.class
